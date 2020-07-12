@@ -396,7 +396,7 @@ section.page-banner-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/4.jpg") center center;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -412,11 +412,11 @@ section.page-banner-section {
   text-align: center; }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.page-banner-section {
-      background: #111 url("../upload/banners/4@2x.jpg") center center;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.page-banner-section {
-      background: #111 url("../upload/banners/4@2x.jpg") center center;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center;
       background-size: cover; } }
   section.page-banner-section h1 {
     display: inline-block;
@@ -472,7 +472,7 @@ section.page-banner-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/1.jpg") center center no-repeat;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center no-repeat;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -487,11 +487,11 @@ section.page-banner-section {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     #home-section {
-      background: #111 url("../upload/banners/1@2x.jpg") center center no-repeat;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center no-repeat;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     #home-section {
-      background: #111 url("../upload/banners/1@2x.jpg") center center no-repeat;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center no-repeat;
       background-size: cover; } }
 
 #home-section.background-color-style {
@@ -645,7 +645,7 @@ section.statistic-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/2.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -660,11 +660,11 @@ section.statistic-section {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.statistic-section {
-      background: #111 url("../upload/banners/2@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.statistic-section {
-      background: #111 url("../upload/banners/2@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section.statistic-section .statistic-post {
     margin-bottom: 20px;
@@ -1074,11 +1074,11 @@ section.banner-section {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.banner-section {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.banner-section {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section.banner-section blockquote {
     max-width: 700px;
@@ -1260,7 +1260,7 @@ blockquote.style-4 {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/6.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -1275,11 +1275,11 @@ blockquote.style-4 {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     #services-section2 {
-      background: #111 url("../upload/banners/6@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     #services-section2 {
-      background: #111 url("../upload/banners/6@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   #services-section2 .services-box .services-post {
     margin: 0 0 40px;
@@ -1439,7 +1439,7 @@ section.tweets-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/4.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -1454,11 +1454,11 @@ section.tweets-section {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.tweets-section {
-      background: #111 url("../upload/banners/4@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.tweets-section {
-      background: #111 url("../upload/banners/4@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section.tweets-section .tweets-box {
     text-align: center; }
@@ -1587,7 +1587,7 @@ section#clients-section4 {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/3.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -1602,11 +1602,11 @@ section#clients-section4 {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section#clients-section4 {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section#clients-section4 {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section#clients-section4 .clients-box ul.clients-list {
     overflow: hidden; }
@@ -2279,7 +2279,7 @@ section.bannerline-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/4.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -2294,11 +2294,11 @@ section.bannerline-section {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.bannerline-section {
-      background: #111 url("../upload/banners/4@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.bannerline-section {
-      background: #111 url("../upload/banners/4@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section.bannerline-section .bannerline-box {
     text-align: center; }
@@ -2391,7 +2391,7 @@ section.article-section.bg-section {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/3.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -2406,11 +2406,11 @@ section.article-section.bg-section {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.article-section.bg-section {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.article-section.bg-section {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section.article-section.bg-section .article-box .article-content h1, section.article-section.bg-section .article-box .article-content p {
     color: #fff; }
@@ -3103,7 +3103,7 @@ div.tab-box.vert-style .tab-content {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/3.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -3118,11 +3118,11 @@ div.tab-box.vert-style .tab-content {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     #pricing-section3 {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     #pricing-section3 {
-      background: #111 url("../upload/banners/3@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   #pricing-section3 .pricing-box ul.pricing-table {
     margin-bottom: 30px;
@@ -3230,7 +3230,7 @@ section.video-section2 {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/4.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -3245,11 +3245,11 @@ section.video-section2 {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.video-section2 {
-      background: #111 url("../upload/banners/4@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.video-section2 {
-      background: #111 url("../upload/banners/4@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section.video-section2 .title-section {
     margin-bottom: 0; }
@@ -3333,7 +3333,7 @@ section#progress-bar-section2 {
   /*
      * Set a base background for 1x environments.
      */
-  background: #111 url("../upload/banners/2.jpg") center center fixed;
+  background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
   background-size: cover;
   /*
      * Create an @2x-ish media query.
@@ -3348,11 +3348,11 @@ section#progress-bar-section2 {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section#progress-bar-section2 {
-      background: #111 url("../upload/banners/2@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section#progress-bar-section2 {
-      background: #111 url("../upload/banners/2@2x.jpg") center center fixed;
+      background: #111 url("../images/dallas-tx3-1539695292-bw.jpg") center center fixed;
       background-size: cover; } }
   section#progress-bar-section2 .progress-box {
     max-width: 700px;
